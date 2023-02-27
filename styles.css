@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+form{
+    border: solid 1px rgb(180, 180, 180);
+    margin-top: 20px;
+
+}
+.top-box{
+    border: solid 1px rgb(180, 180, 180);
+    background-color: rgba(219, 219, 219, 0.397);
+    min-height: 70px;
+    margin-top: -9px;
+    margin-left: -4px;
+    margin-right: 700px;
+}
+.form-row{
+	padding: 8px;
+}
+.form-someInfo{
+    margin: 0px 50px;
+  
+
+}
+label, .p1{
+    font-weight: 700;
+}
+.buttons{
+    margin-left: 750px;
+
+}
